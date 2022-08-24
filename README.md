@@ -1,1 +1,1 @@
-# html-training
+# HTML Training
